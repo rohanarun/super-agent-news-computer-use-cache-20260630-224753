@@ -1,0 +1,61 @@
+{
+  "citations": [
+    "[oracle.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHBRUnJ2M25QWFJBV0tqN3JpVjh5YkxiZU5sRnVIeGFqaEF4UU1wY1ZxZHhiRkxaR21zQUlxTmZJZW1LMWhMNW5Hd3VWQmowZUk4S0FPZ1B5Z1ZzLVRhSi12emNnRWF6cEFMR3MtVmhReUkyWWNWZVdqcy1SNWIyRE51c21mNk5oMS1uU1ZlM2Z4Z1hVNGRoOUlvWm14R3R3MTNLcEhRRTBQU00?oc=5)",
+    "[techwireasia.com](https://news.google.com/rss/articles/CBMiekFVX3lxTFBQTDdBOEp2cnpNaDJLa2RhT3RJY08zXzhwM1ZpVDgyOE5lMGhNc3UtcEhfMS1vRHFSVGpFdVlXSVF1STd1aGx6VXdSTTN4N3FWa2wzZVBUZGpJRWFDUjl2VEdFVzJ0YTJjX0V0WnZYYTFGOEp5TFBPN0VR?oc=5)",
+    "[aimultiple.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TR0dCckYxUDF2Ym9KZ3RNS3dDVUg5WGFHOEt5YjVLYmZucXBZNkxHUVpCbmQ3MHEwWWRKUlFsdmp4OUxicURxR0lWQzdhQUswUEY5UDhnTWtMTWFSdnRIbU9R?oc=5)",
+    "[cloudflare.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvSVVxcGlNanU2QlZMaWNNc2pVU0FNczJLYzhWWktPdkFOWUJJNW1DYmNramtxWkx5emRET1owUThjQ1E1RGl2U2tuTFRoOGhpOGlZUVhkT1RnUWxncWEtcEhDVTJ2UQ?oc=5)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGpaSEpNWC1xSVBFU2VnOTdsZnA1OEIzeTU2Mm41eWtZbFlXdW53Umx6VUdXNlRnVVhZLWc4ank3OWtvdlNKeTM3SS1LM0tWSlYyakdGSkw0TkZORlhyVEh5Rm91S0l1ci1HWHc2UmpBajVFcjBPamUzMTA1SnRDYkZNQ2tic2FwOE1fLU9XcUFXWmZwOVcxRTQxU1gtVFZfaklqOEw1djU?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_math=1120px max, centered flex; AIDA=pass; bento_density=grid-auto-flow:dense verified; label_sweep=competitors listed; button_contrast=AA+; failure_fixes=hero centered + justify-content/justify-items; css_length>=4200 chars",
+  "generated_at": "2026-06-30T22:48:00.392793+00:00",
+  "headline": "Computer-use cache for repeated AI workflows",
+  "site_brief": {
+    "audience": "builders and operators who need repeated computer-use automations to get cheaper and more reliable",
+    "canonical_url": "https://app.getsupers.com/use-cases/computer-use-cache/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Computer-use cache', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "computer use cache AI agent",
+      "computer-use AI agent repeated workflows",
+      "browser automation agent cache",
+      "AI agent action trace reuse"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "computer-use-cache",
+    "title": "Computer-use cache",
+    "use_case_intent": "explain Super's computer-use cache as the reusable memory layer for repeated browser and desktop workflows"
+  },
+  "summary": "An indexable, practical use\u2011case page explaining how Super\u2019s computer\u2011use cache makes repeated browser and desktop automations cheaper and more reliable for builders and operators."
+}
